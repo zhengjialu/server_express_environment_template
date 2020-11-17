@@ -1,0 +1,22 @@
+{
+  "name": "server_express_environment_template",
+  "version": "1.0.0",
+  "description": "服务端脚手架（Express 版）",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhengjialu/server_express_environment_template.git"
+  },
+  "author": "jialu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhengjialu/server_express_environment_template/issues"
+  },
+  "homepage": "https://github.com/zhengjialu/server_express_environment_template#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
